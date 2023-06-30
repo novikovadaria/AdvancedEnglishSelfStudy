@@ -1,26 +1,28 @@
-# Advanced English Self-Study Materials
-## Welcome to my repository of Advanced English Self-Study Materials. As part of my journey in mastering English, I've compiled these resources which I've found beneficial in understanding and practicing advanced English grammar.
 
-## What's Inside?
-This repository consists of:
+# Self-Learning Advanced English Repository
+### Welcome to my self-learning advanced English repository! 
+This repository serves as a personal learning log and contains resources I use for independent studying of advanced English grammar.
+## Content
+### This repository is divided into two main sections:
+- Advanced Grammar in Use: This folder is broken down into multiple Units. Each Unit folder includes:
+  - A PDF file of each unit as transcribed by me from R. Murphy's "Advanced Grammar in Use" textbook.
+  - Images of the textbook pages with my annotations.
+  - Images of the textbook exercise pages with my solutions, annotations, and verifications.
+- Write&Improve: This folder houses PDF files of my English compositions.
+  - The files include corrections, error analysis, and proofreading. I source the essay topics from the Write&Improve website by Cambridge English. (https://writeandimprove.com/)
+## Objective
+The primary goal of this repository is to track my progress and consolidate all crucial learning materials in one place.
+## Usage
+You are welcome to use this repository to:
+- Gain insights into self-learning methodologies and strategies.
+- Access high-quality learning materials and resources.
+- Understand common mistakes and corrections in English compositions.
+- Gain a peek into the structure and content of R. Murphy's "Advanced Grammar in Use".
 
-R. Murphy's Advanced Grammar in Use Summaries: These are my personal summaries from studying Murphy's Advanced English Grammar in Use textbook. They are clear, concise and cover the most important points from each chapter.
+**!Please keep in mind that this is a self-learning journey, and while I strive for accuracy, there might be mistakes. Therefore, treat my notes and exercises as a supplement to your study, not a sole source of truth!**
+## Interaction
+I am open to discussions, collaborations, and feedback! If you spot an error, or if you have any suggestions, or simply want to share your thoughts on learning English, feel free to reach out. Your input can help me and others improve our learning process.
 
-Test Solutions: These include my own solutions to grammar tests from the textbook. They are here to share my process of learning and self-evaluation.
+Contact me via email at smb_udk@vk.com or Telegram - @smb_udk.
 
-Texts on Cambridge Topics: These are texts that I've written based on topics found on the Write&Improve with Cambridge website (https://writeandimprove.com). They've helped me apply grammar rules practically while improving my writing skills.
-
-## How to Use These Resources
-These resources can be used by anyone looking to study advanced English grammar. Here's a suggested way to use them:
-
-Begin with Murphy's Advanced Grammar Summaries to understand complex grammar rules.
-Attempt the tests, then compare your answers with the Keys for self-assessment.
-Write your own texts on Cambridge topics and compare them with mine to improve your written English.
-
-## Contributions
-While this repository primarily serves as a record of my personal learning journey, contributions are welcome! If you've found an error or have a different approach to a test solution, feel free to write me an email (smb_udk@vk.com).
-
-## Disclaimer
-Please remember that these resources are based on my personal understanding and may not be 100% accurate. Always refer to authoritative resources for confirmation.
-
-## Happy learning and remember, the journey to mastering a language is a marathon, not a sprint. Keep going!
+**Enjoy your journey through the English language!**
